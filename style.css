@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(41, 41, 41);
+    color: rgb(211, 211, 211);
+}
+
+.head h1 {
+    text-align: center;
+    color: rgb(68, 171, 255);
+    margin: 20px;
+    font-size: 40px;
+}
+
+.tt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+table tr td{
+    border: 1px solid rgb(214, 214, 214);
+    margin: 10px;
+    width: 6vw;
+    text-align: center;
+    font-size: 16px;
+    height: 12%;
+    padding: 3px;
+}
+
+.spcell {
+    color:rgb(68, 171, 255);
+    background-color:rgb(22, 22, 22);
+    font-weight: bold;
+    text-transform: uppercase;
+}
