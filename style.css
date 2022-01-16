@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(41, 41, 41);
-    color: rgb(211, 211, 211);
+    /*color: rgb(211, 211, 211);*/
 }
 
 .head h1 {
@@ -22,11 +22,12 @@
 }
 
 table tr td{
+    color: white;
     border: 1px solid rgb(214, 214, 214);
     margin: 10px;
     width: 6vw;
     text-align: center;
-    font-size: 16px;
+    font-size: 14px;
     height: 12%;
     padding: 3px;
 }
@@ -37,4 +38,15 @@ table tr td{
     background-color:rgb(22, 22, 22);
     font-weight: bold;
     text-transform: uppercase;
+}
+
+/*Project Cells styling*/
+.prjcell {
+    color: rgb(136, 255, 38);
+    background-color:rgb(22, 22, 22);
+}
+
+.ps {
+    color: grey;
+    text-align: center;
 }
