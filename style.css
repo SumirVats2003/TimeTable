@@ -31,6 +31,7 @@ table tr td{
     padding: 3px;
 }
 
+/*This is going to style the special cell of the table*/
 .spcell {
     color:rgb(68, 171, 255);
     background-color:rgb(22, 22, 22);
